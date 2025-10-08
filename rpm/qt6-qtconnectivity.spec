@@ -2,7 +2,7 @@
 
 Summary: Qt6 - Connectivity components
 Name:    qt6-qtconnectivity
-Version: 6.7.2
+Version: 6.8.3
 Release: 0%{?dist}
 
 # See LICENSE.GPL3, respectively, for exception details
